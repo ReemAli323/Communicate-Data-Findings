@@ -10,22 +10,22 @@ visualizations.
 
 
 # Ford Go Bike System:
-## Summary of Visualization:
-
 For the month of February 2019, this dataset represents the members of the trip of Ford Go Bike took.
 The data consists of information about service members' trips, types, ages, genders, and stations.
+This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 
-• Most customers use the bikes between 1, 20 and 30 minutes.
-• 90% of the bike users are subscribers, and only 9.5% are customers.
-• Mostly used bikes on workdays Thursday and Tuesday.
-• The most age between 20 and 40.
-• Most use of bike are male.
-• According to the plot above, there are high hours of use for males, while females
-have low hours.
-• On Saturdays and Sundays, the number of trips increases.
-• Subscribers increase and customers decrease for males and females.
-• Customer and subscriber weekly usage is almost the same, but the use by males
-is greater than that of females.
-• Overall, customers have more trips than subscribers’ per capita female
-subscribers have more trips per year than male subscribers.
-• Between 20 and 60, the number of trips is increasing.
+#### Each trip is anonymized and includes:
+
+##### •Trip Duration (seconds)
+##### •Start Time and Date
+##### •End Time and Date
+##### •Start Station ID
+##### •Start Station Name
+##### •Start Station Latitude
+##### •Start Station Longitude
+##### •End Station ID
+##### •End Station Name
+##### •End Station Latitude
+##### •End Station Longitude
+##### •Bike ID
+##### •User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
